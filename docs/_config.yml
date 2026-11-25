@@ -1,0 +1,17 @@
+title: Maryam Tavasoli | JdeRobot Internship 2026
+description: >-
+  Weekly blog of my research internship at JdeRobot / RoboticsLab URJC:
+  deep reinforcement learning for robot pick-and-place in MuJoCo, and how to explain what the learned policy does.
+baseurl: "/2026-internship-Maryam_Tavasoli"
+url: "https://theroboticsclub.github.io"
+author: Maryam Tavasoli
+github_username: maryamtavasoli98
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+
+show_excerpts: true

@@ -1,0 +1,8 @@
+# Same MuJoCo line as the lab's mjlab-based projects (mjlab pins mujoco~=3.11.0)
+mujoco==3.11.0
+numpy
+glfw
+# State-based pick-and-place environments (Fetch suite) and DRL stack, verified on macOS CPU
+gymnasium-robotics==1.4.2
+stable-baselines3==2.9.2
+sb3-contrib==2.9.2
